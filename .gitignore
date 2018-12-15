@@ -10,5 +10,6 @@ xcuserdata
 build
 /edx.properties
 default_config/local.yaml 
+edulib_config/*
 *.gcda
 *.swp
